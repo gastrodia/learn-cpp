@@ -12,3 +12,7 @@
 *.la
 *.a
 *.out
+*.cmake
+CMakeFiles
+CMakeCache.txt
+Makefile
